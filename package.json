@@ -1,0 +1,25 @@
+{
+  "name": "slider-website",
+  "version": "1.0.0",
+  "description": "Slider website prototype",
+  "main": "slider.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanRajGautam/slider-website.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Rohan Gautam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RohanRajGautam/slider-website/issues"
+  },
+  "homepage": "https://rohanrajgautam.github.io/RohanRajGautam/slider-website#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
